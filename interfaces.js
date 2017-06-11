@@ -10,7 +10,7 @@ function printName(user) {
 }
 //Bonus - Optionals
 //We can also make types as optional, meaning, the properties could exist on the object, or not, and still be valid.
-!--interface;
+interface;
 Userinterface;
 {
     name: string;
@@ -23,5 +23,3 @@ function printName(user) {
     }
     return;
 }
--- >
-;
