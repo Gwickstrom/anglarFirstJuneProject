@@ -16,7 +16,6 @@ function printName(user: UserInterface): void{
 }
 //Bonus - Optionals
 //We can also make types as optional, meaning, the properties could exist on the object, or not, and still be valid.
-<!--
 interface Userinterface {
     name: string
     cellNumber?: number;
